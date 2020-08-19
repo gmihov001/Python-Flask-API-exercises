@@ -148,7 +148,7 @@
         {
             "slug": "07-post_todo",
             "title": "07-post_todo",
-            "done": false,
+            "done": true,
             "path": ".breathecode/exercises/07-post_todo",
             "translations": [
                 "us"
@@ -158,7 +158,7 @@
         {
             "slug": "07.1-test-post-todo",
             "title": "07.1-test-post-todo",
-            "done": false,
+            "done": true,
             "path": ".breathecode/exercises/07.1-test-post-todo",
             "translations": [
                 "us"
